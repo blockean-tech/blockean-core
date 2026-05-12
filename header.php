@@ -1,3 +1,9 @@
+
+/**
+ * BLOCKEAN MODULE: HEADER SYSTEM 001
+ * Source: uniwers theme prototype
+ */
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>> <!-- Dynamiczne pobieranie języka strony z WordPressa -->
 <head>
