@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * BLOCKEAN MODULE: HEADER SYSTEM 001
+ * Source: uniwers theme prototype
+ */
+
 // Ten kod dodajemy do pliku functions.php naszego motywu
 
 function uniwers_theme_setup() {
